@@ -41,7 +41,6 @@ The **Auth Service** is a microservice in the GoShop ecosystem responsible for *
 |--------|------------------|--------------------------|
 | POST   | `/api/v1/signup` | Register a new user      |
 | POST   | `/api/v1/login`  | Authenticate user & get JWT |
-| GET    | `/api/v1/me`     | Get current user profile (JWT required) |
 
 ---
 
